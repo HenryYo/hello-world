@@ -1,2 +1,3 @@
 # hello-world
-First Repository
+
+I'm a student in XiaMen University.
